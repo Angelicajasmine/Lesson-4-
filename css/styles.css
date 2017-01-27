@@ -1,14 +1,27 @@
+/*
+COLORS:
+Lime green:#00B21C
+Dark green:#006610
+Light greeen:#3ADD59
+Maroon:#660016
+Rosy red:#B20027
+*/
+
+
 body {
-    background-color:none; 
+    background-color:none;
+    color:#3ADD59;
 }
 
 #header {
     width:100%;
-    background-color:beige;
+    background-color:none;
+    min-height: 80px;
 }
 
 #header > h1 {
-    margin: 0
+    margin: 0;
+    text-align: center
 }
 #nav {
     width:100%;
